@@ -22,7 +22,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 👨‍🎓: Obtained my degree in software development at <a href="https://www.cput.ac.za/">Cape Peninsula University of Technology</a>.
 - 🔭: I’m working as a Software Engineer at <a href="https://landadmin.trimble.com/">Spatial Dimension (Trimble company)</a>.
 - ⚡: I enjoy problem solving and keeping up-to-date with the latest technologies out there and seeing how they can help with current issues in software development. 
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jarryd-deane-719b9b151)
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jarryd_deane-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jarryd-deane-719b9b151)
 
 ---  
   
