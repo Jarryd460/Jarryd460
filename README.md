@@ -11,15 +11,77 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
+</div>
+  
+---
+  
+### 👨‍💻 About Me :
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with frontend and DevOps experience from South Africa.
+- 👨‍🎓: Obtained my degree in software development at <a href="https://www.cput.ac.za/">Cape Peninsula University of Technology</a>.
+- 🔭: I’m working as a Software Engineer at <a href="https://landadmin.trimble.com/">Spatial Dimension (Trimble company)</a>.
+- ⚡: I enjoy problem solving and keeping up-to-date with the latest technologies out there and seeing how they can help with current issues in software development. 
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jarryd-deane-719b9b151)
+
+---  
+  
+### 🛠️: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Anuglar" alt="Anuglar" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="40" height="40" title="Bitbucket" alt="Bitbcuket" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap" alt="Bootstrap" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" width="40" height="40" title="Confluence" alt="Confluence" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" title="CSharp" alt="CSharp" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" alt="CSS3" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" alt="Docker" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="40" height="40" title="DotNet" alt="DotNet" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title="DotNet Core" alt="DotNet Core" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" title="Github" alt="Github" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="40" height="40" title="Gulp" alt="Gulp" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" title="Html5" alt="Html5" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" alt="Javascript" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40" height="40" title="Jest" alt="Jest" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" title="JQuery" alt="JQuery" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/knockout/knockout-plain-wordmark.svg" width="40" height="40" title="Knockout" alt="Knockout" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" title="Sql Server" alt="Sql Server" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="NodeJs" alt="Nodejs" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40" title="Npm" alt="Npm" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="40" height="40" title="Slack" alt="Slack" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" width="40" height="40" title="SourceTree" alt="SourceTree" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" width="40" height="40" title="Subversion" alt="Subversion" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tortoisegit/tortoisegit-original.svg" width="40" height="40" title="Tortoise Git" alt="Tortoise Git" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40" height="40" title="Trello" alt="Trello" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" title="Typescript" alt="Typescript" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" title="Visual Studio" alt="Visual Studio" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="40" height="40" title="Webpack" alt="Webpack" />&nbsp;
+</div>
+ 
+---  
+
+### 🔥: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jarryd460&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarryd460&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
   
 <!--
  The above has been built from https://www.sitepoint.com/github-profile-readme/
 
 Some example links of GIFs and badges used:
+- https://github.com/sitepoint-editors/sitepoint-github-profile
 - https://giphy.com/
 - https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=
 - https://shields.io/
 - https://github.com/antonkomarev/github-profile-views-counter
+- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+- https://github.com/devicons/devicon/
+- https://github.com/DenverCoder1/github-readme-streak-stats
+- http://github-readme-streak-stats.herokuapp.com/demo/
+- https://github.com/anuraghazra/github-readme-stats
 -->
 
 <!--
