@@ -68,6 +68,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40" title="Github Actions" alt="Github Actions" />&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40" title="Github Codespaces" alt="Github Codespaces" />&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" width="40" height="40" title="Insomnia" alt="Insomnia" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" width="40" height="40" title="SonarQube" alt="SonarQube" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform" alt="Terraform" />&nbsp;
 </div>
  
 ---  
