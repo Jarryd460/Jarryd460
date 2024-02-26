@@ -57,6 +57,17 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" title="Visual Studio" alt="Visual Studio" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code" alt="Visual Studio Code" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="40" height="40" title="Webpack" alt="Webpack" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40" title="Apache Kafka" alt="Apache Kafka" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" title="Python" alt="Python" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" title="Azure" alt="Azure" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" width="40" height="40" title="Azure DevOps" alt="Azure DevOps" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" alt="AWS" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bamboo/bamboo-original.svg" width="40" height="40" title="Bamboo" alt="Bamboo" />&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" title="Django" alt="Django" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask" alt="Flask" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40" title="Github Actions" alt="Github Actions" />&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="40" height="40" title="Github Codespaces" alt="Github Codespaces" />&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" width="40" height="40" title="Insomnia" alt="Insomnia" />&nbsp;
 </div>
  
 ---  
